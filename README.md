@@ -106,7 +106,9 @@ Finally, we need to define abstract functions to get Dao interfaces inside the c
 
 This diagram(copied from google's official documentation) shows the architecture diagram we follow in Android MVVM projects.
 
-## What is the difference between *MVVM architecture* and *MVVM clean architecture*?
+<img src='https://miro.medium.com/max/1200/0*PKo4mQsOOGUqPlVp.png'/>
+
+## What is the difference between MVVM architecture and *MVVM clean architecture*?
 
 (You will experience  many MVVM Clean architecture project examples in other sections of this course)
 
